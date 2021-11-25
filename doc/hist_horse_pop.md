@@ -62,9 +62,10 @@ time point between 1940 - 1972:
 Table 1. Maximum and minimum number of horses for each province between
 1940 - 1972
 
-Below we zoom in and look at the province of Ontario:
+Below we zoom in and look at the province of Alberta:
 
-<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" title="Figure 2. Horse populations for province of focus" alt="Figure 2. Horse populations for province of focus" width="50%" />
+![Figure 2. Horse populations for province of
+focus](hist_horse_pop_files/figure-gfm/plot%20province-1.png)
 
 # References
 
